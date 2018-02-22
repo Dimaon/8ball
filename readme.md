@@ -5,4 +5,5 @@
     
     ruby 8ball.rb
 
-Предварительно необходимо установить интерпретатор языка Ruby. Подробнее см. [здесь](http://goodprogrammer.ru/rails-winter-18/lessons/02-setup-ruby "Хороший программист")
+Предварительно необходимо установить интерпретатор языка Ruby. Подробнее см. [здесь](http://goodprogrammer.ru/rails-winter-18/lessons/02-setup-ruby "Хороший программист")  
+Ссылка на установку Ruby см. [здесь](https://www.ruby-lang.org/ru/documentation/installation/)
